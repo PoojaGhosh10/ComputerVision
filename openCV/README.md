@@ -6,3 +6,6 @@ Read and Save Images: The images in folder can be read and even save from and to
 Image Filtering and Enhancement: The images can be enhanced by adjusting the brightness, contrast and filtered by blurring and sharpening.
 Draw an Image or On the image: Add shapes or text to the image.
 Object Detection: Can identify humans, hands, faces, animals and even non-living objects.
+
+To Install:
+pip install opencv-python
