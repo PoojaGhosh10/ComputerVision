@@ -20,4 +20,7 @@ Computer does not visualise an image the way we do.
  Resizing
  Cropping
  Filtering
+ Drawing
+ Writing Text
+ 
  
